@@ -1,0 +1,261 @@
+body {
+    background: #f6f6fa;
+    padding: 40px 40px  40px 40px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+ul ol {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.wraper {
+    background: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* main content */
+.main {
+    padding: 88px 80px 40px 80px;
+    box-sizing: border-box;
+}
+
+/* sidebar */
+
+.sidebar {
+    background-color: #e0ebfe;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    width: 370px;
+
+}
+
+.sidebarinfo  {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.contact {
+    color: #161d2a;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
+
+.contacttype {
+    color: #161d2a;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 8px;
+}
+
+.link {
+    color: #2979ff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.item {
+    margin-top: 0px;
+    margin-bottom: 3px;
+}
+
+.container {
+    margin-bottom: 40px;
+}
+
+
+.skilcontainer {
+    margin-bottom: 40px;
+}
+
+.title {
+    color: #161d2a;
+    font-size:22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.itemlist  {
+    color: #161d2a;
+    font-size:14px;
+    font-weight: 400;
+    line-height:24px;
+  
+   
+}
+
+.soft.skil {
+    margin-top: 40px;
+}
+
+.list {
+    padding-left: 12px;
+  
+}
+
+.prof {
+    color: #161d2a;
+    font-size:14px;
+    font-weight: 700;
+    line-height:17px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.name {
+    color: #161d2a;
+    font-size:45px;
+    font-weight: 700;
+    line-height:55px;
+    margin-top: 0;
+    margin-bottom: 12px; 
+}
+
+.desk {
+    color: #595959;
+    font-size:14px;
+    font-weight: 400;
+    line-height:24px;
+}
+
+.myinfo {
+   margin-bottom: 40px;
+}
+
+.project1 {
+    color: #161d2a;
+    font-size:22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.project {
+    color: #161d2a;
+    font-size:14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.progedtlist {
+    padding-left: 16px;
+}
+
+.link {
+    color: #005fff;
+    font-size:14px;
+    font-weight: 400;
+    line-height: 24px;  
+    text-decoration-line: underline;
+}
+
+.end {
+    color: #595959;
+    font-size:14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;   
+}
+
+.allproject {
+    margin-bottom: 40px;
+}
+
+.work {
+    color: #000;
+    font-size:22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.work1 {
+    color: #161d2a;
+    font-size:16px;
+    font-weight: 700;
+    line-height: 20px;  
+    margin-top: 4px;
+    margin-bottom: 12px;
+}
+.work01 {
+    color: #6d9df5;
+   
+}
+.data1 {
+    color: #ababab;
+    font-size:12px;
+    font-weight: 400;
+    line-height: 15px; 
+    margin-bottom: 8px;
+}
+
+.dutlist {
+    color: #595959;
+    font-size:14px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;  
+}
+.dut {
+    padding-left: 16px;
+    
+}
+.company {
+    margin-bottom: 12px;
+}
+
+.list {
+    margin-left: 16px;
+}
+
+.myworks {
+    margin-bottom: 40px;
+}
+
+.edbcation {
+    color: #000;
+    font-size:14px;
+    font-weight: 700;
+    line-height: normal;  
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.education2 {
+    color: #6d9ef5;
+    font-size:16px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;  
+    margin-bottom: 8px;
+}
+
+.edbcation3 {
+    color: #000;
+    font-size:14px;
+    font-weight: 700;
+    line-height: normal;  
+    margin-bottom: 8px;
+}
+
+.period {
+    color: #ababab;
+    font-size:12px;
+    font-weight: 400;
+    line-height: 15px; 
+}
